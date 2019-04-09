@@ -37,3 +37,5 @@ Debug
 .vs
 *.VC.db
 *.VC.VC.opendb
+*.pdb
+press.x
