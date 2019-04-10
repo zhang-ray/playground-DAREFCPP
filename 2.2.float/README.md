@@ -13,3 +13,8 @@ I don't know why no crash on Visual Studio 2015 x86-debug when I input a float v
 
 ## 2.2.2.2.getFloat
 We can find `flt` instruction in `2.2.2.2.getFloat.dll` ![getFloat](./documents/getFloat.png)
+
+
+
+## TODO
+- _ftol, FPU, fnstcw, fldcw, ...
