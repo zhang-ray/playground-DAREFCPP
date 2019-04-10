@@ -10,6 +10,8 @@ I don't know why no crash on Visual Studio 2015 x86-debug when I input a float v
 
 2. We can get the `main` function by finding the reference here ![main.func](./documents/main.func.png). We can see `cvtsi2ss` and `cvttss2si` instruction although `fild`/`fst`/`fstp`/`fld` not found;
 
+3. Moreover, we can see disassembly in Visual Studio ![vs.disassembly](./documents/vs.disassembly.png).
+
 
 ## 2.2.2.2.getFloat
 We can find `flt` instruction in `2.2.2.2.getFloat.dll` ![getFloat](./documents/getFloat.png)
