@@ -1,4 +1,4 @@
-1. First of all, let's create a Visual Studio 2015 C++ project and build it; and the **Character Set** must be Multi-Byte ![vs.source](./documents/vs.source.png)
+1. First of all, let's create a Visual Studio 2015 C++ project and build it in `x86` `Debug` mode; and the **Character Set** must be Multi-Byte ![vs.source](./documents/vs.source.png)
 
 
 2. Open OllyDbg (I use v1.10). Push `F3` to open the `1.1.mod.title.exe` program. I don't know why this alert occurred every time: ![this alert occurred](./documents/od.entry.point.alert.png)
