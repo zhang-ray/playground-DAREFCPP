@@ -8,4 +8,5 @@ project(2.2.float)
 
 add_executable(2.2.0.float 2.2.0.float.cpp)
 add_executable(2.2.2.intToFloat 2.2.2.intToFloat.cpp)
+add_library(2.2.2.2.getFloat SHARED 2.2.2.2.getFloat.cpp)
 
