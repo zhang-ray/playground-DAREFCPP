@@ -7,7 +7,7 @@ int accumulation(int nNumber) {
 }
 
 
-int main(void){
-    accumulation (33);
+int main(void) {
+    accumulation(33);
     return 0;
 }
