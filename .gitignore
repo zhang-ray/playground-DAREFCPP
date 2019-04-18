@@ -39,3 +39,7 @@ Debug
 *.VC.VC.opendb
 *.pdb
 press.x
+
+
+# CMake
+*-build
